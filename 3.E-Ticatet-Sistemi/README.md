@@ -1,7 +1,7 @@
 ## 5. Gün Ödevi
 
 
-#Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
+### Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
 
 Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 
